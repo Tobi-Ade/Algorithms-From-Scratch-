@@ -1,2 +1,2 @@
 # Algorithms-From-Scratch-
-Creating Simple Machine Learning ALgorithms 
+Demonstrating knowledge of ML algorithms by writing simple algorithms from scratch
